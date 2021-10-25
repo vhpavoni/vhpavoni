@@ -1,7 +1,7 @@
 ### Hi there, I'm Victor Hugo 👋
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Paraiso Bike Shop
 - 🌱 I’m currently learning about HTML / CSS / JAVASCRIPT
 - ⚡ Fun fact: I have a female dog, her name is Luna
 
