@@ -1,8 +1,8 @@
 ### Hi there, I'm Victor Hugo 👋
 
 
-- 🔭 I’m currently working on Paraiso Bike Shop
-- 🌱 I’m currently learning about HTML / CSS / JAVASCRIPT
+- 🔭 I’m currently working on DB1 Group
+- 🌱 I’m currently learning about Business Analyst
 - ⚡ Fun fact: I have a female dog, her name is Luna
 
 
